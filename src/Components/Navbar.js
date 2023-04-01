@@ -83,39 +83,39 @@ export const Navbar = () => {
             <div class="d-flex align-middle">
               <ul class="nav mx-auto mb-2 mb-lg-0 ">
                 <li class="nav-item ">
-                  <span class="mx-3 me-4 " aria-current="page" href="#">
+                  <span class="mx-3 me-5 " aria-current="page" href="#">
                     <i class="bi bi-search">
                     </i>
                   </span>
                 </li>
                 <li class="nav-item">
-                  <span class="me-4" aria-current="page" href="#">
+                  <span class="me-5" aria-current="page" href="#">
                     <i class="bi bi-person-circle">
                     </i>
                   </span>
                 </li>
                 <li class="nav-item">
-                  <span class="me-4" aria-current="page" href="#">
-                    <i class="bi bi-shuffle">
-                    <span class="position-absolute top-1 start-1 translate-middle  badge   rounded-pill bg-dark " >
+                  <span class="me-5" aria-current="page" href="#">
+                    <i class="bi bi-shuffle" >
+                    <span class="position-absolute top start-1 translate-middle-y  badge   rounded-pill bg-dark " >
                         0
                       </span>
                     </i>
                   </span>
                 </li>
                 <li class="nav-item">
-                  <span class="me-4" aria-current="page" href="#">
+                  <span class="me-5" aria-current="page" href="#">
                     <i class="bi bi-heart">
-                    <span class="position-absolute top-10 start-10 translate-middle  badge   rounded-pill bg-dark">
+                    <span class="position-absolute top-10 start-10 translate-middle-y  badge   rounded-pill bg-dark">
                         0
                       </span>
                     </i>
                   </span>
                 </li>
                 <li class="nav-item">
-                  <span class="me-4" aria-current="page" href="#">
+                  <span class="me-5" aria-current="page" href="#">
                     <i class="bi bi-bag-plus">
-                    <span class="position-absolute top-10 start-10 translate-middle  badge   rounded-pill bg-dark">
+                    <span class="position-absolute top-10 start-10 translate-middle-y  badge   rounded-pill bg-dark">
                         0
                       </span>
                     </i>
